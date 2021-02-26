@@ -2,8 +2,8 @@
 
 ## Update and upgrade pi
 
-`sudo apt update
-sudo apt upgrade -y`
+`sudo apt update`
+`sudo apt upgrade -y`
 
 ## MariaDB
 
